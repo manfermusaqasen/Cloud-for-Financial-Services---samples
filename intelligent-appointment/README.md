@@ -26,6 +26,10 @@ The Starter kit package includes two main directories:
 2. `/demo-web-app` - Contains examples of the demo web app with the Starter kit embedded, and a sample Azure function to demonstrate as the web app gateway.
    * `/src` - Contains the demo web app code with the Starter kit embedded.
    * `/api` - Contains the sample code for an Azure Serverless function, which acts as the app gateway to establish a secured connection to your Intelligent appointments environment.
+## Data model
+
+A simplified ERD describing the relationships between the main entities is available in [appointment-starter-kit/docs/ERD.md](appointment-starter-kit/docs/ERD.md). An example SQL schema derived from these interfaces is provided in [appointment-starter-kit/docs/schema.sql](appointment-starter-kit/docs/schema.sql).
+
 
 ## Getting started
 
