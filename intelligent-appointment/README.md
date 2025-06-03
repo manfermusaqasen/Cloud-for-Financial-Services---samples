@@ -28,7 +28,7 @@ The Starter kit package includes two main directories:
    * `/api` - Contains the sample code for an Azure Serverless function, which acts as the app gateway to establish a secured connection to your Intelligent appointments environment.
 ## Data model
 
-A simplified ERD describing the relationships between the main entities is available in [appointment-starter-kit/docs/ERD.md](appointment-starter-kit/docs/ERD.md).
+A simplified ERD describing the relationships between the main entities is available in [appointment-starter-kit/docs/ERD.md](appointment-starter-kit/docs/ERD.md). An example SQL schema derived from these interfaces is provided in [appointment-starter-kit/docs/schema.sql](appointment-starter-kit/docs/schema.sql).
 
 
 ## Getting started
