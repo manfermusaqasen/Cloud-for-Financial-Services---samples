@@ -50,9 +50,9 @@
     "c8": "^7.12.0",
     "jsdom": "^20.0.0",
     "typescript": "^4.6.4",
-    "vite": "^6.3.5",
+    "vite": "^8.0.16",
     "vite-plugin-dts": "^1.3.0",
-    "vitest": "^0.18.1"
+    "vitest": "^4.1.8"
   },
   "peerDependencies": {
     "@fluentui/react": "^8.81.1",
